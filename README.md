@@ -1,5 +1,7 @@
 # How to create a headless Drupal site
 
+> Basado en [Headless Drupal — Build a Drupal 8 API with a ReactJS Front-End](https://medium.com/@Userium/headless-drupal-build-a-drupal-8-api-with-a-reactjs-front-end-e43bf0fb94db)
+
 In order to begining you can choose which option to follow:
 
 # Option 1: 
